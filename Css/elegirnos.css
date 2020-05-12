@@ -1,0 +1,53 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+.Elegirnos {
+    width: 100%;
+    height: auto;
+    margin-top: 60px;
+    background-color: #eff7f6;
+}
+
+.Elegirnos .container_elegirnos {
+    width: 90%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Elegirnos .container_elegirnos .imagen {
+    width: 40%;
+    height: 100%;
+    padding-top: 60px;
+}
+
+.Elegirnos .container_elegirnos .imagen img {
+    width: 450px;
+}
+
+.Elegirnos .container_elegirnos .text {
+    width: 40%;
+    height: 100%;
+    padding-top: 60px;
+}
+
+.Elegirnos .container_elegirnos .text .texth4 {
+    font-size: 34px;
+    margin-bottom: 2rem;
+}
+
+.Elegirnos .container_elegirnos .text p {
+    width: 80%;
+    line-height: 1.5rem;
+    
+}
+

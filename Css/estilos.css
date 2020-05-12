@@ -152,6 +152,7 @@
 
 .servicios .container_servicio .card h4 {
    margin-bottom: 1rem;
+   text-transform: uppercase;
 }
 
 
